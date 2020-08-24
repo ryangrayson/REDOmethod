@@ -30,6 +30,20 @@ namespace REDOmethod
             var band = Console.ReadLine();
             Console.WriteLine($"Cool, I'll have to check {band} out!");
 
+            Console.WriteLine($"===============================================\n\n" +
+                $"Name: {userName}\n" +
+                $"Favorite Color: {color}\n" +
+                $"Favorite Animal: {animal}\n" +
+                $"Liked Band: {band}");
+
+
+            
+
+
+         //---------------------Exercise 2-------------------
+
+
+
 
 
         }
