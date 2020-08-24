@@ -1,0 +1,12 @@
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/bin/Debug/netcoreapp3.1/REDOmethod.deps.json
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/bin/Debug/netcoreapp3.1/REDOmethod.runtimeconfig.json
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/bin/Debug/netcoreapp3.1/REDOmethod.runtimeconfig.dev.json
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/bin/Debug/netcoreapp3.1/REDOmethod.dll
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/bin/Debug/netcoreapp3.1/REDOmethod.pdb
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.csprojAssemblyReference.cache
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.AssemblyInfoInputs.cache
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.AssemblyInfo.cs
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.csproj.CoreCompileInputs.cache
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.dll
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.pdb
+/Users/ryangrayson/Repos/REDOmethod/REDOmethod/obj/Debug/netcoreapp3.1/REDOmethod.genruntimeconfig.cache
